@@ -3,7 +3,7 @@ Repository created exclusively for the resolution of the exercises provided by W
 
 * To verify the correct functioning of the exercises you must run the file "main.py"
 ```console
-python3 main.py
+python main.py
 ```
 
 ## Creator
@@ -12,7 +12,7 @@ python3 main.py
 
 ## Requirements
 
-* Python3 (https://www.python.org/downloads/release/python-3916/)
+* Python 3 (https://www.python.org/downloads/release/python-3916/)
 * Pip (https://pip.pypa.io/en/stable/installation/)
 * VS Code (or similar) and JupyterLab (to view exercise 4)
 
