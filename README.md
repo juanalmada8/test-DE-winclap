@@ -14,7 +14,7 @@ python3 main.py
 
 * Python3 (https://www.python.org/downloads/release/python-3916/)
 * Pip (https://pip.pypa.io/en/stable/installation/)
-* VS Code(or similar) and JupyterLab (to view exercise 4)
+* VS Code (or similar) and JupyterLab (to view exercise 4)
 
 ## please note
 
