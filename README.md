@@ -16,7 +16,7 @@ python3 main.py
 * Pip (https://pip.pypa.io/en/stable/installation/)
 * VS Code (or similar) and JupyterLab (to view exercise 4)
 
-## please note
+## Please note
 
   For the correct functioning of the game **test-DE-winclap** you must have all the requirements installed.
   You can install the dependencies and libraries that you can find in the file libraries.txt
